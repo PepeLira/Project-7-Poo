@@ -17,6 +17,11 @@ namespace Project_7_Poo
             this.nombre = nombre;
         }
 
+        private void CambiarBitmon(int posicion)
+        {
+            BitmonActivo = bitmons[posicion];
+        }
+
         private void AgregarBitmon()
         {
 
