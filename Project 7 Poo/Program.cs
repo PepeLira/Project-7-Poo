@@ -12,7 +12,6 @@ namespace Project_7_Poo
         {
             //hola pepe
             //Hello World!
-            //calpu
         }
     }
 }
